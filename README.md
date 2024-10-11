@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishtihar Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<marquee behavior="scroll" direction="left">
+    Welcome to My GitHub!
+</marquee>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtihar&label=Profile%20views&color=0e75b6&style=flat" alt="ishtihar" /> </p>
-<iframe src="https://free.timeanddate.com/clock/i9l3y1ts/n176/tlin" frameborder="0" width="57" height="18"></iframe>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtihar" alt="ishtihar" /></a> </p>
